@@ -5,7 +5,8 @@ I enjoy piano, soccer, programming and game
 
 ### Using IDE
 <div>
-  <a href="https://www.jetbrains.com/idea/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="70" /></a>  
+  <a href="https://www.jetbrains.com/idea/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="70" /></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="PyCharm" height="70" /></a>
   <a href="https://code.visualstudio.com/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="70" /></a>
 </div>
 
